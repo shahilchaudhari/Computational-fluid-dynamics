@@ -61,7 +61,7 @@ int main(){
         }
         cout<<endl;
     }
-
+    // calling function to populate solution array
     gaussElimination(n,matrix,solution);
 
     cout<<endl;
