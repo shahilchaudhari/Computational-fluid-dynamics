@@ -10,11 +10,11 @@ Finite volume method is most widely used in cfd compared to finite difference me
 This is the directory that contains some basic probems and codes which are helpful to kickstart new projects.
 
 
-#### Comparison of QUICK and Central difference Scheme to solve steady state convection diffusion  to calculate quantity PHI on central axis of a square domain
-![Screenshot from 2022-04-11 14-37-11](https://user-images.githubusercontent.com/89005886/162703645-76a52c51-862c-4f06-9deb-22007d44ceda.png)
+#### Comparison of QUICK and Central difference Scheme to solve steady state convection diffusion problem and calculate quantity PHI on central axis of a domain
+![Square Domain](https://user-images.githubusercontent.com/89005886/162703645-76a52c51-862c-4f06-9deb-22007d44ceda.png)
 
-![cds](https://user-images.githubusercontent.com/89005886/162702251-e893e83c-0b13-404a-b0f0-1c288d911402.png)
+![Central Difference Scheme](https://user-images.githubusercontent.com/89005886/162702251-e893e83c-0b13-404a-b0f0-1c288d911402.png)
 
 
 
-![quick](https://user-images.githubusercontent.com/89005886/162702305-fbfd79c5-d342-4127-81e0-43eb28fb59a7.png)
+![QUICK Scheme](https://user-images.githubusercontent.com/89005886/162702305-fbfd79c5-d342-4127-81e0-43eb28fb59a7.png)
